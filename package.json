@@ -1,0 +1,16 @@
+{
+  "name": "nodeimgupload",
+  "version": "1.0.0",
+  "description": "upload images with Multer app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Sabelo Gumede",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "multer": "^1.3.0"
+  }
+}
